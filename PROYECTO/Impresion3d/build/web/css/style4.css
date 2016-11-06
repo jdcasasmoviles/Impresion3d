@@ -1,0 +1,27 @@
+.inner_copy {border:0;color:#f00;float:left;width:50% !important;margin:-100% 0 0 0;overflow:hidden;line-height:0;padding:0;font-size:11px}
+.fleft {float:left}
+.fright  {float:right}
+.fcenter {float:none;margin:0 auto;text-align:center}
+.fclear {clear:both}
+body {margin:0;font-size:12px;font-family:"trebuchet MS";background-image:url(images/body-bg.jpg);background-repeat:repeat-x;background:#fff}
+#header {height:190px;background:#FCE2BB}
+.name {font-size:40px;color:#f00;padding-left:20px;height:90px} 
+.name2 {color:#fff}
+.tag {color:#626262;font-size:18px;padding-left:15px}
+#links-bg {height:40px;background:#f00}
+.toplinks {width:110px;text-align:center;font-size:13px;font-weight:bold}
+.toplinks a {color:#fff;text-decoration:none}
+.toplinks a:hover {color:#111;text-decoration:none}
+.sap {width:1px;background:#ccc}
+.head2 {font-family:tahoma;font-size:12px;font-weight:bold;color:#fff;height:35px;padding-left:12px;background:#969696;border-left:1px solid #fff}
+.bottomlinks {width:110px;text-transform:uppercase;font-size:11px;font-weight:bold;text-align:center}
+.bottomlinks a {color:#575757;text-decoration:none}
+.bottomlinks a:hover {color:#000;text-decoration:none}
+.sap2 {color:#575757;width:1px}
+a {color:#f00;text-decoration:underline}
+a:hover {color:#111;text-decoration:none}
+#footer div {padding:0}
+.pagelinks {line-height:20px;color:#111;width:60px;font-size:12px;font-weight:bold;text-align:center;background:#fbf89d;border:1px solid #f00} 
+.pagelinks a {color:#111;text-decoration:none}
+.pagelinks a:hover {color:#f00;text-decoration:none;background:#111;display:block}
+#preview {background:#fefae4;border:thin solid #fed49c}

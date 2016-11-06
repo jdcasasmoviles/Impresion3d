@@ -1,0 +1,20 @@
+SMAP
+RealizarPedido_jsp.java
+JSP
+*S JSP
+*F
++ 0 RealizarPedido.jsp
+views/ValidarLogin/RealizarPedido.jsp
+*L
+2,19:45
+21,2:64,3
+23,4:70
+27:74,3
+28,24:77
+51,3:101
+53:104
+54:105,3
+55,12:108
+67:120,3
+68,3:123
+*E

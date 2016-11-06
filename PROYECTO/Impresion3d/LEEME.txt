@@ -1,0 +1,57 @@
+PARA EL FUNCIONAMIENTO DEL PROGRAMA SE TIENE QUE HACER LOS SIGUIENTES PASOS
+1-TENER EJECUTADOS LOS SERVICIOS DE
+	APACHE
+	MYSQL
+	TOMCAT 7.0
+	SE USO XAMPP PARA EJECUTAR ESTOS SERVICIOS
+
+2-IMPORTAR LA BASE DE DATOS impresion3d QUE ESTA EN LA CARPETA:/BD , en el 
+	gestor phpMyAdmin
+		Crear primero una B.D. con el nombre impresion3d e importar selecionar el archivo impresion3d .sql
+		Desmarcar el check  No utilizar AUTO_INCREMENT con el valor 0
+
+	USUARIOS PERMITIDOS
+	USUARIO: root
+	CONTRASEÑA: root
+	
+	USUARIO: root
+	CONTRASEÑA:
+
+
+3-
+cuzcanoClavicula
+cuzcano1234@
+A
+
+chicorita
+LSXK7RV7
+
+user
+31NTPVNL
+
+chang
+CYSWBGZ5
+
+user6
+UQEAL5MU
+
+
+
+
+
+
+3-ABRIR EL PROYECTO  CON NETBEANS  QUE TENGA JAVA EE
+	AGREGAR EL DRIVER mysql-connector-java-5.0.8-bin , ESTE JAR SE DESCARGA DE INTERNET
+	FIJARSE QUE ESTE EJECUTANDOSE APACHE TOMCAT
+
+4-FINALMENTE HACER COMPILAR Y EJECUTAR EL ARCHIVO :
+		index.jsp
+
+5-Usuarios ya registrados que se puede logear :
+usuario :chicorita
+password :LSXK7RV7
+
+usuario : user
+password : 31NTPVNL
+
+	

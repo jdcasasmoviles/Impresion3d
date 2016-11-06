@@ -1,0 +1,12 @@
+SMAP
+menuAdministrador_jsp.java
+JSP
+*S JSP
+*F
++ 0 menuAdministrador.jsp
+views/ValidarLogin/menuAdministrador.jsp
+*L
+5,19:44
+24,2:63,3
+26,29:69
+*E
